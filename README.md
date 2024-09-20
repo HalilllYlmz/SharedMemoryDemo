@@ -25,6 +25,6 @@ Bu proje, Qt kullanarak paylaşılan bellek ile veri yazma ve okuma işlemlerini
 
 ## Resimler
 
-![Qt Creator](qt_creator.png)
-![Vs Code](code.png)
+![Qt Creator](images/qt_creator.png)
+![Vs Code](images/code.png)
 
