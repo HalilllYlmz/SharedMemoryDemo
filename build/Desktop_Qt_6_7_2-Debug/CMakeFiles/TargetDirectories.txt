@@ -1,0 +1,9 @@
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/SharedMemoryDemoProject.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/SharedMemoryDemoProject_autogen_timestamp_deps.dir
+/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/SharedMemoryDemoProject_autogen.dir

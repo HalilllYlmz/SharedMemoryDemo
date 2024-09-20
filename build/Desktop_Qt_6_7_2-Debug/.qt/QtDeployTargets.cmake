@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_SharedMemoryDemoProject_FILE /home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/SharedMemoryDemoProject)
+set(__QT_DEPLOY_TARGET_SharedMemoryDemoProject_TYPE EXECUTABLE)

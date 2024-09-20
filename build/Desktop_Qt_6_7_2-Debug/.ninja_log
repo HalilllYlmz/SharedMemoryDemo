@@ -1,0 +1,9 @@
+# ninja log v6
+1	223	1726831030737622416	SharedMemoryDemoProject_autogen/timestamp	acf6589a3ede18bb
+1	223	1726831030737622416	SharedMemoryDemoProject_autogen/mocs_compilation.cpp	acf6589a3ede18bb
+1	223	1726831030737622416	/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/SharedMemoryDemoProject_autogen/timestamp	acf6589a3ede18bb
+1	223	1726831030737622416	/home/ayoff/SharedMemoryDemoProject/build/Desktop_Qt_6_7_2-Debug/SharedMemoryDemoProject_autogen/mocs_compilation.cpp	acf6589a3ede18bb
+224	2207	1726831030742622400	CMakeFiles/SharedMemoryDemoProject.dir/main.cpp.o	d7b2469207f9cd22
+224	2350	1726831030741622403	CMakeFiles/SharedMemoryDemoProject.dir/SharedMemoryDemoProject_autogen/mocs_compilation.cpp.o	b055d68f8c961b46
+224	2353	1726831030742622400	CMakeFiles/SharedMemoryDemoProject.dir/widget.cpp.o	4e3b25425859bf96
+2353	2619	1726831032871615606	SharedMemoryDemoProject	2baec2e2f80d97e
