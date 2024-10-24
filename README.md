@@ -20,7 +20,7 @@ Bu proje, Qt kullanarak paylaşılan bellek ile veri yazma ve okuma işlemlerini
 1. Projeyi klonlayın veya indirin.
 
    ```bash
-   git clone <repo-url>
+   git clone "https://github.com/HalilllYlmz/SharedMemoryDemo"
    cd SharedMemoryDemoProject
 
 ## Resimler
